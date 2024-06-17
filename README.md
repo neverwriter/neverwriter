@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @neverwriter
 - 👀 I’m interested in Engineering, Sailing and building/creating new things
-- 🌱 I’m currently learning Spring framework for Java, PostgreSQL and REST APIs
-- 💞️ I’m looking to collaborate on basic projects for learning 
 - 📫 You can reach me on e-mail: plewczuk513@gmail.com
 
 <!---
